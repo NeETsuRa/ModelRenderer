@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "117,55",
+                        "endColumns": "50,61",
+                        "endOffsets": "163,112"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,61",
+                        "endOffsets": "101,163"
+                    }
+                }
+            ]
+        }
+    ]
+}

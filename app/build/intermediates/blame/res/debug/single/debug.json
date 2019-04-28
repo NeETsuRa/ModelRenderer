@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\raw_cube.obj.flat",
+        "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\raw\\cube.obj"
+    },
+    {
+        "merged": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\raw_dolphins.obj.flat",
+        "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\raw\\dolphins.obj"
+    },
+    {
+        "merged": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Development Proeckts\\ModelRenderer\\app\\build\\intermediates\\res\\merged\\debug\\raw_asteroid200.obj.flat",
+        "source": "D:\\Development Proeckts\\ModelRenderer\\app\\src\\main\\res\\raw\\asteroid200.obj"
+    }
+]
